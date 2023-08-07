@@ -1,0 +1,16 @@
+.footer {
+    position: absolute;
+    background-color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 0px;
+    width: 375px;
+    height: 10px;
+    bottom: 80px;
+  }
+  
+  .footerText {
+    color: #85B6FF;
+    font-size: 12px;
+  }

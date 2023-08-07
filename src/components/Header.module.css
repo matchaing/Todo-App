@@ -1,0 +1,19 @@
+.header {
+    position: fixed;
+    background-color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0px;
+    padding-left: 10px;
+  }
+
+  .logoImage {
+    width: 45px;
+    height: 45px;
+  }
+  
+  .titleImage {
+    width: 150px;
+    height: 30px;
+  }
